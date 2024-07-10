@@ -1,7 +1,7 @@
 # FinCalc
 
 ## Overview
-The Financial Calculator is a Python-based application that provides many important calculations in finance and business. From this calculator, you can find Present Value, Future Value, Simple Interest, Compound Interest, APR, EAR, Bond Value, Bond Current Yield, and Stock Profits.
+The Financial Calculator is a Python-based application that provides many important calculations in finance and business. This calculator can find Present Value, Future Value, Simple Interest, Compound Interest, APR, EAR, Bond Value, Bond Current Yield, and Stock Profits. It is very useful for practical uses from personal finance to financial analysis
 
 ## Calculations
 
